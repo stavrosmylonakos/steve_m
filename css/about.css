@@ -1,0 +1,31 @@
+body{
+    
+}
+
+
+img {
+display: block;
+margin: 0 auto;
+}
+
+iframe{
+    display: block;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    border: 0;
+     }
+
+ol{
+    display:table;
+    margin:0 auto;
+}
+.list1{
+    display:table;
+    margin:0 auto;  
+}
+.ab
+{
+    display: table;
+    margin:0 auto;
+}
